@@ -19,7 +19,7 @@
 #include "soundent.h"
 #include "rumble_shared.h"
 #include "gamestats.h"
-// #include "MissionChooser\wep\BaseCustomization.h" (not inplemented yet), used for customising weapons
+// #include "MissionChooser\wep\BaseCustomization.h" (not implemented yet), used for customising weapons
 
 // memdbgon must be the last include file in a .cpp file!!!
 #include "tier0/memdbgon.h"
