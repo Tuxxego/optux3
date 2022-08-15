@@ -10,6 +10,7 @@ IVEngine 2 is an heavily improved engine based on Source SDK 2013.
 - New UI system
 - Many new entities
 - Fixes to the engines code and gameplay
+- Two branches
 
 More will be documented on the wiki.
 
